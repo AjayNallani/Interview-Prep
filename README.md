@@ -1,2 +1,8 @@
-# Algorithms -- Just a sandbox to play with different algorithms
-## will be populated with multiple snippets for different alogorithms
+# About
+
+Interview-Prep - Interview prep guide for a Machine Learning engineer
+
+## Folder structure 
+
+## Credits
+
